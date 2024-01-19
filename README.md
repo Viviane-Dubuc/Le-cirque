@@ -1,0 +1,3 @@
+- Projet personnel entièrement réalisé par moi-même
+- Défi dans lequel j'ai réussi à programmer l'entièreté du jeu en moins de six heures
+- Rédaction de scripts pour la programmation, réalisation de sons et de musiques, création des éléments 2D
