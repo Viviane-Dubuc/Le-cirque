@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc48942110507049a9c298c3e24e635, type: 3}
+  m_Name: Voyante
+  m_EditorClassIdentifier: 
+  _idle: {fileID: 21300000, guid: ab2cac81e2bee2143963bc00d1de6c0a, type: 3}
+  _attaque: {fileID: 21300000, guid: f103e1e8fa515f941930ebdd3a713bde, type: 3}
+  _critique: {fileID: 21300000, guid: 745b0263562125b439dc6890d01292bb, type: 3}
+  _hurt: {fileID: 21300000, guid: f2b5f8b35161cf14eb97cc5109a65ec4, type: 3}
+  _sprite: {fileID: 21300000, guid: 00b3b9a236d5e7345ae4b8eb5fa8863b, type: 3}
+  _nom: la voyante
+  _classe: Mage
+  _PA: 170
+  _PM: 60
+  _PMActuel: 60
+  _PV: 90
+  _PVActuel: 90

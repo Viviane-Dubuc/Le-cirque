@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc48942110507049a9c298c3e24e635, type: 3}
+  m_Name: Canon
+  m_EditorClassIdentifier: 
+  _idle: {fileID: 21300000, guid: 94521dbaa24601149be21c7a3fb69e54, type: 3}
+  _attaque: {fileID: 21300000, guid: e581bfe77ef20544b9dc169cb39d0bf0, type: 3}
+  _critique: {fileID: 21300000, guid: f03582639d75fa543ae0ae8af5a88a97, type: 3}
+  _hurt: {fileID: 21300000, guid: 53a55546a4a41ad4fa6ff89a75dced02, type: 3}
+  _sprite: {fileID: 21300000, guid: 8e275be40846a4c42a9701bbbb725511, type: 3}
+  _nom: la femme canon
+  _classe: Combattant
+  _PA: 130
+  _PM: 0
+  _PMActuel: 0
+  _PV: 150
+  _PVActuel: 10

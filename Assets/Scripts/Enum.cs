@@ -1,0 +1,1 @@
+public enum TypePiste { musiqueBase = 0, musiqueCombat = 1, musiqueSecret = 2, musiqueVictoire = 3, musiqueDefaite = 4 }

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc48942110507049a9c298c3e24e635, type: 3}
+  m_Name: Jongleuse
+  m_EditorClassIdentifier: 
+  _idle: {fileID: 21300000, guid: 2854223139e1cb841a2c8f307c7db897, type: 3}
+  _attaque: {fileID: 21300000, guid: 65ad91ec3a9674146b611285869dfef9, type: 3}
+  _critique: {fileID: 21300000, guid: 07a42978487864947b77fcbd23b6ff19, type: 3}
+  _hurt: {fileID: 21300000, guid: 26d47b2419eed6f4e87cc18d6e940b3e, type: 3}
+  _sprite: {fileID: 21300000, guid: 08d72c27523612240882afe23312fa4a, type: 3}
+  _nom: la jongleuse
+  _classe: "\xC9p\xE9iste"
+  _PA: 110
+  _PM: 0
+  _PMActuel: 0
+  _PV: 130
+  _PVActuel: 130

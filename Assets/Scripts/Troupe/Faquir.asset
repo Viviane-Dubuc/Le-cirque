@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc48942110507049a9c298c3e24e635, type: 3}
+  m_Name: Faquir
+  m_EditorClassIdentifier: 
+  _idle: {fileID: 21300000, guid: bf6a7ddd6c29e7d4ba99d2d9882470a0, type: 3}
+  _attaque: {fileID: 21300000, guid: 7b274facc8a21df4d9aa35f4a9648942, type: 3}
+  _critique: {fileID: 21300000, guid: dd6966128281c7742987a3abea3c9407, type: 3}
+  _hurt: {fileID: 21300000, guid: e7ef2e0d1f6bb9b46b92df8a67af11e4, type: 3}
+  _sprite: {fileID: 21300000, guid: 8072df59a34a3e24f9a6d209ca6bb0b0, type: 3}
+  _nom: le faquir
+  _classe: Soigneur
+  _PA: 90
+  _PM: 40
+  _PMActuel: 40
+  _PV: 110
+  _PVActuel: 110

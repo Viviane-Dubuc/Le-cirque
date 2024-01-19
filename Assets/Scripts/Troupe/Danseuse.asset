@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc48942110507049a9c298c3e24e635, type: 3}
+  m_Name: Danseuse
+  m_EditorClassIdentifier: 
+  _idle: {fileID: 21300000, guid: 144cfbbf0e0f80347a50ab47b084455d, type: 3}
+  _attaque: {fileID: 21300000, guid: 707fa49b9f7f29f4c8eaedad9a1e3753, type: 3}
+  _critique: {fileID: 21300000, guid: 05a12f7a82f44144db3bb6c8d804fc8e, type: 3}
+  _hurt: {fileID: 21300000, guid: c610316987df39c4eb6f2c37b3d02d14, type: 3}
+  _sprite: {fileID: 21300000, guid: e999650a84ea1b346970a9ffbe892e84, type: 3}
+  _nom: la danseuse
+  _classe: Soigneur
+  _PA: 110
+  _PM: 40
+  _PMActuel: 40
+  _PV: 90
+  _PVActuel: 0
